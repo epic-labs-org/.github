@@ -1,3 +1,5 @@
-## Hi there 👋
+# Project Contribution Guidelines
 
-This is an official readme file for the project that needs to be completed.
+This is the official README file for the project. If you wish to contribute and work on an issue, please follow the workflow below:
+
+In review -> Refinement -> Backlog -> Ready
