@@ -1,0 +1,2 @@
+# .github
+ThinkTok Project
